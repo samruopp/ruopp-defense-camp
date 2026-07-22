@@ -1,0 +1,84 @@
+
+Ruopp Shutdown Defense Camp
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruopp Shutdown Defense Camp 2027</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #0a1f3d; color: #fff; line-height: 1.6; }
+        header { background: linear-gradient(#1e3a8a, #0a1f3d); padding: 3rem 1rem; text-align: center; }
+        h1 { font-size: 2.5rem; margin: 0; }
+        .subtitle { font-size: 1.3rem; color: #93c5fd; }
+        section { padding: 3rem 1rem; max-width: 1000px; margin: 0 auto; }
+        .highlight { background: #1e40af; padding: 2rem; border-radius: 12px; margin: 1.5rem 0; }
+        ul { list-style: none; padding: 0; }
+        ul li { padding: 0.8rem 0; border-bottom: 1px solid #60a5fa; }
+        form { background: #1e3a8a; padding: 2rem; border-radius: 12px; }
+        input, textarea, button { width: 100%; padding: 12px; margin: 10px 0; border: none; border-radius: 6px; font-size: 1rem; }
+        button { background: #3b82f6; color: white; font-weight: bold; cursor: pointer; }
+        button:hover { background: #2563eb; }
+        footer { text-align: center; padding: 2rem; background: #020617; font-size: 0.9rem; }
+        .pro { color: #fcd34d; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RUOPP SHUTDOWN DEFENSE CAMP</h1>
+        <p class="subtitle">2-Day Defensemen Intensive with NHL Drafted Pros</p>
+        <p><strong>July 6–7, 2027 | Co-operators Centre, Regina, SK</strong></p>
+        <p><em>Sam Ruopp & Harrison Ruopp</em></p>
+    </header>
+
+    <section>
+        <h2>Master the Blue Line</h2>
+        <p>Specialized training for Peewee to Pro defensemen. Small groups. Game-changing skills from experienced pros currently in the game.</p>
+        
+        <div class="highlight">
+            <h3>Your Instructors</h3>
+            <p><strong class="pro">Sam Ruopp</strong> – NHL Drafted Defenseman, currently playing professional hockey in the DEL (Germany). Specialist in elite backwards skating, 2-on-1 defense, and shot blocking.</p>
+            <p><strong class="pro">Harrison Ruopp</strong> – NHL Draft Pick (3rd Round, Phoenix Coyotes), WHL & Pro Defenseman. Physical shutdown specialist.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>What You'll Master</h2>
+        <ul>
+            <li>Sam’s proprietary backwards skating technique for speed & control</li>
+            <li>Gap control, positioning & elite 2-on-1 defense</li>
+            <li>Advanced shot blocking</li>
+            <li>Proper body checking & physical play (safe & legal)</li>
+            <li>Breakouts, zone coverage, video analysis & situational drills</li>
+            <li>Off-ice mobility & hockey IQ sessions</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Camp Details</h2>
+        <p><strong>Dates:</strong> July 6–7, 2027 (2 full days)</p>
+        <p><strong>Price:</strong> $449 + GST (Early Bird until May 1, 2027: $399)</p>
+        <p><strong>Capacity:</strong> Limited to 24 players for maximum attention</p>
+    </section>
+
+    <section>
+        <h2>Register Now</h2>
+        <form action="https://formspree.io/f/YOUR_CODE_HERE" method="POST">
+            <input type="text" name="name" placeholder="Player Full Name" required>
+            <input type="text" name="age" placeholder="Age / Age Group (e.g., U15)" required>
+            <input type="email" name="email" placeholder="Parent/Guardian Email" required>
+            <input type="tel" name="phone" placeholder="Phone Number">
+            <input type="text" name="team" placeholder="Current Team / Level">
+            <textarea name="notes" rows="4" placeholder="Any notes or experience details"></textarea>
+            <input type="hidden" name="_subject" value="New Camp Registration!">
+            <button type="submit">Submit Registration</button>
+        </form>
+        <p><small>After submitting, send payment via e-transfer to Samuel.ruopp@hotmail.com. We'll confirm within 48 hours.</small></p>
+    </section>
+
+    <footer>
+        <p>Contact: Samuel.ruopp@hotmail.com</p>
+        <p>© 2027 Ruopp Shutdown Defense Camp • All rights reserved</p>
+    </footer>
+</body>
+</html>
